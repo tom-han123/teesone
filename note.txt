@@ -1,0 +1,24 @@
+Git & Github
+
+What is Git?
+Version Control System for tracking changes in computer files
+
+Remote Job & WFH
+
+Concept of Git
+1.Kept track of code history.
+2.branch
+3.access files.
+
+
+Github
+
+
+Basic command in Git
+1. git init
+2. git add 
+3. git status
+4. git commit 
+5. git push
+6. git pull 
+7. git clone 
